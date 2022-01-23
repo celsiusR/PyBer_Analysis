@@ -50,7 +50,7 @@ As an overall observation, the maximum fares are realized round the end of Febru
 
 # 
 
-![total_fares_by_city_type](C:\Rutgers\module-5\PyBer_Analysis\analysis\total_fares_by_city_type.png)
+![total_fares_by_city_type](analysis/total_fares_by_city_type.png)
 
 
 
