@@ -36,7 +36,7 @@ In addition the Ride-Sharing summary Dataframe above, multi-three-line chart pro
 - The <span style='color:blue'>blue</span> trend line graph shows how fares in rural cities totaled around $300 from beginning to end during the same time period.
 - The <span style='color:red'>orange</span> trend line graph shows how the total fares in suburban cities fall in between urban and rural cities: around $700 to $1,300 from beginning to end during this time.
 
-As an overall observation, the maximum fares are realized round the end of February.  Perhaps it was the hedgehog's prediction of a warmer spring. 
+As an overall observation, the maximum fares are realized round the end of February.  Perhaps it was the groundhog's prediction of a warmer spring. 
 
 <u>Three Business Recommendations</u>
 
