@@ -10,23 +10,23 @@ Rides in Urban cities were the most coming in at 68.4%
 Rides in Suburban at 26.3%
 Rides in Rural at 5.3%
 
-![Total_Rides](C:\Rutgers\module-5\PyBer_Analysis\analysis\Total_Rides.PNG)
+![Total_Rides](analysis/Total_Rides.PNG)
 
 #### REVENUE
 
 From the rides section above, the number of rides was greatest in Urban, the revenue was greatest totaling $39,854, with urban and rural being around $19,356 and $4,327
 
-![TOTAL_FARES](C:\Rutgers\module-5\PyBer_Analysis\analysis\TOTAL_FARES.PNG)
+![TOTAL_FARES](analysis/TOTAL_FARES.PNG)
 
 #### DRIVERS
 
 Urban cities had 2,405 drivers in urban cities, 490 drivers in suburban, and 78 drivers in rural cities
 
-![Total_drivers](C:\Rutgers\module-5\PyBer_Analysis\analysis\Total_drivers.PNG)
+![Total_drivers](analysis/Total_drivers.PNG)
 
 ### Summary
 
-![Dataframe_Summary](C:\Rutgers\module-5\PyBer_Analysis\analysis\Dataframe_Summary.PNG)
+![Dataframe_Summary](analysis/Dataframe_Summary.PNG)
 
 
 
